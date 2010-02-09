@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.bytesparadise.t5dee.feature_0.1.0.jar" id="org.bytesparadise.t5dee.feature" version="0.1"/>
+</site>
